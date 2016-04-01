@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:background="@drawable/b1" >
+    <Button
+            android:id="@+id/register"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/registerbutimg"
+            />
+    <Button
+            android:id="@+id/functionality"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+           
+            android:background="@drawable/functi"/>
+     <Button
+            android:id="@+id/callus"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+           
+            android:background="@drawable/callus"/>
+      <Button
+            android:id="@+id/tellafriend"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+           
+            android:background="@drawable/tellafriend"/>
+   
+</LinearLayout>
